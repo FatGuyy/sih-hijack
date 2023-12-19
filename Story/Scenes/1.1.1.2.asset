@@ -17,5 +17,5 @@ MonoBehaviour:
       full ransom money.
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
     actions: []
-  background: {fileID: 21300000, guid: 5600fe6160ebf9c41ad5c7ece4fb39ba, type: 3}
+  background: {fileID: 21300000, guid: 6e70728d1c1706e4bbc7e694f4dec6b5, type: 3}
   nextScene: {fileID: 11400000, guid: 099dc5b3fb33f5a48af095e7f4e3fc95, type: 2}
