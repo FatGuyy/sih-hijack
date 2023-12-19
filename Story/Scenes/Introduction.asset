@@ -55,5 +55,5 @@ MonoBehaviour:
   - text: 'The flight attendant approaches him. '
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
     actions: []
-  background: {fileID: 21300000, guid: ac57dfc6c72ada54bad5985542b1bccd, type: 3}
+  background: {fileID: 21300000, guid: 6e70728d1c1706e4bbc7e694f4dec6b5, type: 3}
   nextScene: {fileID: 11400000, guid: d498f5c959bc52a4cb6eacef939011f4, type: 2}

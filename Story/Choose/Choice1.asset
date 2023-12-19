@@ -15,5 +15,5 @@ MonoBehaviour:
   labels:
   - text: 'Ask him to use the flight intercom. '
     nextScene: {fileID: 11400000, guid: 4a62577df73c96241b4c99938667d01d, type: 2}
-  - text: Deny him access.
+  - text: "Deny him access \u274C"
     nextScene: {fileID: 11400000, guid: 63b67148ec0cca942ad3ac4ddf22045f, type: 2}

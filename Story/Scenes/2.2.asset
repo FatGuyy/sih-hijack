@@ -25,5 +25,5 @@ MonoBehaviour:
   - text: Attendant notices that he is serious and has the detonator powered on.
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
     actions: []
-  background: {fileID: 21300000, guid: ac57dfc6c72ada54bad5985542b1bccd, type: 3}
+  background: {fileID: 21300000, guid: 6e70728d1c1706e4bbc7e694f4dec6b5, type: 3}
   nextScene: {fileID: 11400000, guid: ed144c956e1ba404e883d381ac133fe5, type: 2}
