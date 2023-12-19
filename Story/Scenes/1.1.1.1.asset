@@ -15,10 +15,20 @@ MonoBehaviour:
   sentences:
   - text: (Approaches Osama) Can I speak with you sir?
     speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
-    actions: []
+    actions:
+    - speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
+      spriteIndex: 2
+      actionType: 1
+      coords: {x: 500, y: -23}
+      moveSpeed: 0
   - text: What is it?
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-    actions: []
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 0
+      coords: {x: -517, y: 17}
+      moveSpeed: 0
   - text: The amount you mentioned is too much to arrange in such a short amount
       of time. Can we maybe talk this through and reduce the amount in some way?
     speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
@@ -29,6 +39,16 @@ MonoBehaviour:
   - text: No sir, but I'm only stating this just because I want everyone to cooperate
       and I want this to be executed smoothly.
     speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
-    actions: []
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 2
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
   background: {fileID: 21300000, guid: 5600fe6160ebf9c41ad5c7ece4fb39ba, type: 3}
   nextScene: {fileID: 11400000, guid: f056fbea3cf7ae5478d6412b45b451b9, type: 2}
