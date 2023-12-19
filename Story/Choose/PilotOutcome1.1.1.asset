@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: PilotOutcome1.1.1
+  m_EditorClassIdentifier: 
+  labels:
+  - text: Pilot asks the attendant to make his demand work. He also lets Air Traffic
+      Control know about the situation.
+    nextScene: {fileID: 11400000, guid: e030ae049b23f7d44bae8b01a4dd4337, type: 2}
+  - text: Pilot denies the demands of the hijacker.
+    nextScene: {fileID: 11400000, guid: 21969389fa9753d45b87c83cd10718a0, type: 2}

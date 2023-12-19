@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 1.1.1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: The pilot asks the fliht atendant to aid him in making necessary arrangements.
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions: []
+  - text: Attendant asks the hijacker to be seated and offers him an isolated seat
+      so that he does not increase panic in passengers.
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions: []
+  - text: Follow me sir. Please have a seat until we do the necessary preparations.
+    speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
+    actions: []
+  - text: Attendant contacts authorities to arrange the money as asked. Authorities
+      ask the attendant to try and reduce the ransom money, as the ammount is quite
+      large.
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions: []
+  background: {fileID: 21300000, guid: 5600fe6160ebf9c41ad5c7ece4fb39ba, type: 3}
+  nextScene: {fileID: 11400000, guid: 67d0273a4fc589c4b80181972b9640e0, type: 2}

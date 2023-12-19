@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 1.1.2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: You are making a big mistake pilot. YOu think I will not do anything. Well,
+      let me prove you wrong.
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions: []
+  - text: Osama whips out the remote detonation device
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions: []
+  - text: Wait, let me have a word with the pilot. Rash decisions won't do us any
+      good.
+    speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
+    actions: []
+  - text: Attendant talks with the pilot and convinces him of the legitimacy of the
+      threat
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions: []
+  background: {fileID: 21300000, guid: 5600fe6160ebf9c41ad5c7ece4fb39ba, type: 3}
+  nextScene: {fileID: 11400000, guid: e030ae049b23f7d44bae8b01a4dd4337, type: 2}

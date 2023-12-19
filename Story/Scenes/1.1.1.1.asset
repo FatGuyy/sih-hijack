@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 1.1.1.1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: (Approaches Osama) Can I speak with you sir?
+    speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
+    actions: []
+  - text: What is it?
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions: []
+  - text: The amount you mentioned is too much to arrange in such a short amount
+      of time. Can we maybe talk this through and reduce the amount in some way?
+    speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
+    actions: []
+  - text: Do you really think the amount should be one of your worries right now?
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions: []
+  - text: No sir, but I'm only stating this just because I want everyone to cooperate
+      and I want this to be executed smoothly.
+    speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
+    actions: []
+  background: {fileID: 21300000, guid: 5600fe6160ebf9c41ad5c7ece4fb39ba, type: 3}
+  nextScene: {fileID: 11400000, guid: f056fbea3cf7ae5478d6412b45b451b9, type: 2}

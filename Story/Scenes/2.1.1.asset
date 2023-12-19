@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 2.1.1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: 'Attendant calms the passengers down along with the hijacker.                                                                                  
+      Attendant: Sir, I suggest you do not pull such a stunt. There are so many people
+      on board. You do not want to live with that guilt for the rest of your life.'
+    speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
+    actions: []
+  - text: You will nevr understand my situation so stop giving me life lessons.
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions: []
+  - text: Even if I do not understand your position, I can understand your emotions.
+      Know that some humans are capable of that.
+    speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
+    actions: []
+  - text: I said do as I say!
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions: []
+  - text: Sir, it's not worth it. Trust me. This is way more dangerous than you think.
+      You may not know the consequences but I do. So I suggest we keep this between
+      ourselves and you sit back and ejnoy your flight.
+    speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
+    actions: []
+  - text: Finally, Osama agrees to her and settles down.
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions: []
+  background: {fileID: 21300000, guid: 5600fe6160ebf9c41ad5c7ece4fb39ba, type: 3}
+  nextScene: {fileID: 11400000, guid: 099dc5b3fb33f5a48af095e7f4e3fc95, type: 2}

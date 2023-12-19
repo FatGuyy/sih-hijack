@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Sorry sir, but I cannot allow you to talk to the pilot directly. We have
+      some protocols that we need to follow.
+    speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 500, y: -23}
+      moveSpeed: 0
+  - text: I am not asking you if you can do it or not. It is a demand and it has
+      to be fulfilled.
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: -517, y: 17}
+      moveSpeed: 0
+  - text: No sir, I am really sorry for the inconvenience.
+    speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 2cd9e3b9de198ae46be64e548936d3ee, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 1
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+  background: {fileID: 21300000, guid: 221d0c95594ec154b80d1d52b5f75415, type: 3}
+  nextScene: {fileID: 11400000, guid: cdaf81f15758a754b868dae2d04b3fff, type: 2}
