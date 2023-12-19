@@ -16,4 +16,4 @@ MonoBehaviour:
   - text: Detensify the situation
     nextScene: {fileID: 11400000, guid: a5bc420650d9eb140857c7acbc483a09, type: 2}
   - text: Ignore the hijacker
-    nextScene: {fileID: 11400000, guid: c50358654254ba1459609d6dc1488042, type: 2}
+    nextScene: {fileID: 11400000, guid: 462203b35c593ba4bad1a05638493492, type: 2}
